@@ -67,9 +67,7 @@ I'm currently extending that platform/ML background into modern **GenAI engineer
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jprakash0205&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
+<p align="center"> <img src="images/userstats.svg" alt="GitHub stats" /> </p> <p align="center"><sub>Auto-regenerated daily by a GitHub Action — no third-party service dependency, so it never goes down with a shared rate limit.</sub></p>
 
 ---
 
