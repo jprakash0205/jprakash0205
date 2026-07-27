@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/jayaprakash-nallathambi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jayaprakash.nallathambi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based%20in-UK-blue" />
+  <img src="https://pdf.ms.credential.net/badge/image?env=production&credential=6v5oikbo" />
 </p>
 
 ---
@@ -36,11 +37,11 @@ I'm currently extending that platform/ML background into modern **GenAI engineer
 
 ### 🏅 Certifications
 
-- **Databricks Certified Data Engineer Professional** — Databricks
-- **Data Engineering, Big Data, and Machine Learning on GCP** — Google Cloud
-- **Machine Learning** — Stanford University (Coursera)
-- **Business Intelligence Implementation Specialist** — Oracle
-- **Tableau Analyst** — Tableau
+- **Databricks Certified Data Engineer Professional** — Databricks · [Show Credential](https://credentials.databricks.com/3b3e497a-4df6-4859-b04d-a144300437ac#acc.AZ4RIMwH)
+- **Data Engineering, Big Data, and Machine Learning on GCP** — Google Cloud · [Show Credential](#) <!-- replace with your Coursera/Skills Boost verify URL -->
+- **Machine Learning** — Stanford University (Coursera) · [Show Credential](#) <!-- replace with your Coursera verify URL -->
+- **Business Intelligence Implementation Specialist** — Oracle · [Show Credential](#) <!-- replace with your Oracle CertView verify URL -->
+- **Tableau Analyst** — Tableau · [Show Credential](#) <!-- replace with your Credly badge URL -->
 
 ---
 
@@ -61,7 +62,7 @@ I'm currently extending that platform/ML background into modern **GenAI engineer
 | Repo | What it is | Note |
 |---|---|---|
 | [mlenv](https://github.com/jprakash0205/mlenv) | Dockerised ML environment for quick clone-and-run notebook setups | Worth a README refresh — see suggestions |
-| [jp-blog](https://github.com/jprakash0205/jp-blog) | Personal blog built in Flask | Off-theme for a Data+AI portfolio — consider unpinning |
+<!-- | [jp-blog](https://github.com/jprakash0205/jp-blog) | Personal blog built in Flask | Off-theme for a Data+AI portfolio — consider unpinning | -->
 
 ---
 
