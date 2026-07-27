@@ -5,7 +5,9 @@
   <a href="https://www.linkedin.com/in/jayaprakash-nallathambi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jayaprakash.nallathambi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based%20in-UK-blue" />
-  <img src="https://pdf.ms.credential.net/badge/image?env=production&credential=6v5oikbo" />
+  </p>
+<p align="center">
+  <img src="https://pdf.ms.credential.net/badge/image?env=production&credential=6v5oikbo" width=100 height=100 />
 </p>
 
 ---
