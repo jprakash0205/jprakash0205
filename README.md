@@ -63,7 +63,8 @@ I'm currently extending that platform/ML background into modern **GenAI engineer
 
 | Repo | What it is | Note |
 |---|---|---|
-| [mlenv](https://github.com/jprakash0205/mlenv) | Dockerised ML environment for quick clone-and-run notebook setups | Worth a README refresh — see suggestions |
+| [mlenv](https://github.com/jprakash0205/mlenv) | Dockerised ML environment — JupyterLab, VS Code Server, full remote desktop (XFCE/noVNC), monitoring, all in one image | README + Apache-2.0 `LICENSE`/`NOTICE` added (derived from ml-workspace, attribution required) |
+| [SnippetVault](https://github.com/jprakash0205/SnippetVault) | Local Flask app for managing personal code snippets as Markdown files with search, filtering and pinning | README + MIT `LICENSE` added. Solid, clean Flask work — kept here rather than pinned, since it's general software craftsmanship rather than data/AI engineering |
 <!-- | [jp-blog](https://github.com/jprakash0205/jp-blog) | Personal blog built in Flask | Off-theme for a Data+AI portfolio — consider unpinning | -->
 
 ---
